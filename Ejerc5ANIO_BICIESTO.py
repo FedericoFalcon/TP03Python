@@ -2,7 +2,7 @@
 #. Especifique una expresión condicional que, a partir de un año, determine si es bisiesto o no. 
 
 print("PROGRAMA ANIO BISIESTO")
-print("PRINT PARA VER COMMITS")
+
 anio = int(input("Ingrese anio a determinar: "))
 
 if ((anio % 4 == 0 and anio % 100 != 0) or (anio % 100 == 0 and anio % 400 == 0)):
