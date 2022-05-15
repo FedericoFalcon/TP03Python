@@ -1,4 +1,4 @@
-#4. Dados 3 números enteros, implemente un algoritmo para determinar el mayor de los 3
+#TP 3 EJERCICIO 4. Dados 3 números enteros, implemente un algoritmo para determinar el mayor de los 3
 
 print("PROGRAMA NUMERO MAYOR")
 numero_1 = int(input("Ingrese primer numero: "))

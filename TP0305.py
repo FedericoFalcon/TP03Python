@@ -1,5 +1,4 @@
-
-#. Especifique una expresión condicional que, a partir de un año, determine si es bisiesto o no. 
+#TP 3 EJERCICIO 5 Especifique una expresión condicional que, a partir de un año, determine si es bisiesto o no. 
 
 print("PROGRAMA ANIO BISIESTO")
 

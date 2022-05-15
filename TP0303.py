@@ -1,3 +1,7 @@
+#TP 3 EJERCICIO 3
+
+'''3. Dado un numero ingresado por el usuario, determinar si es par o impar e imprimir un cartel en 
+pantalla.'''
 
 print("PROGRAMA PAR E IMPAR")
 numero = int(input("Ingrese numero: "))

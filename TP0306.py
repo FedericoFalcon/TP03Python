@@ -1,4 +1,4 @@
-
+#TP 3 EJERCICIO 6
 '''6. Hacer una calculadora, donde el usuario ingresa dos numeros y escribe una de 4 palabras: 
 suma, resta, multiplicacion o division. El programa debe devolver error si el usuario escribió 
 otra palabra que no este dentro de esas 4 o en el caso de la division si quiere hacerlo por 0.

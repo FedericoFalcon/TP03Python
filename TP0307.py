@@ -4,7 +4,11 @@ programador le asigno a una variable llamada 'palabra_secreta', el programa debe
 jugador diciendo si el numero que el ingreso es 'Muy alto', 'Muy bajo' o si adivino.
 Ayuda: usar exit para terminar la ejecución del programa al igual que el punto 6, y tambien se 
 puede agregar el siguiente codigo para generar numeros aleatorios:
-'''
+from random import seed, randint 
+# semilla para el generador de numeros aleatorios 
+seed() 
+# se generan numeros aleatorios enteros entre 0 y 10 
+ numero_aleatorio = randint(0, 10) '''
 
 from sys import exit
 from random import seed, randint 
